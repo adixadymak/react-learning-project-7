@@ -2,9 +2,8 @@ import ProjectsSidebar from "./ProjectsSidebar.jsx";
 
 function App() {
   return (
-    <main>
+    <main className="h-screen my-8 ">
       <ProjectsSidebar />
-      Adding a - Projects Sidebar Component
     </main>
   );
 }
